@@ -1,4 +1,3 @@
-# Excel-Dashboard-project
 🌍 Country Profit Dashboard - 2019 📊
 Welcome to my Country Profit Dashboard project! This project showcases the profit data of various countries for the year 2019 (January to December). The dataset is processed using Excel for cleaning, filtering, formatting, and calculation, then visualized through an interactive dashboard.
 
